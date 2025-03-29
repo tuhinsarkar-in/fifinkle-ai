@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="http://atlasos.net" target="_blank"><img src="https://fifinkle.vercel.app/images/img.png" alt="Fifinkle" width="800"></a>
+  <a href="https://fifinkle-ai.vercel.app" target="_blank"><img src="https://fifinkle.vercel.app/images/img.png" alt="Fifinkle" width="800"></a>
 </h1>
  
 <p align="center">A transparent and lightweight modification to Windows, designed to optimize performance, privacy and usability.</p>
